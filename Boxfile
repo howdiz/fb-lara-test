@@ -1,8 +1,8 @@
 global:
   env:
     - LARAVEL_ENV: production
-web1:
-  name: laravel-pagoda
+web2:
+  name: fb-lara-test
   shared_writable_dirs:
     - /storage/cache
     - /storage/database
